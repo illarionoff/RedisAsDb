@@ -1,0 +1,15 @@
+RedisAsDb/appsettings.Development.json
+RedisAsDb/appsettings.json
+RedisAsDb/.vs/
+RedisAsDb/bin/Debug/net6.0/appsettings.Development.json
+RedisAsDb/bin/Debug/net6.0/appsettings.json
+RedisAsDb/bin/Debug/net6.0/Microsoft.OpenApi.dll
+RedisAsDb/bin/Debug/net6.0/RedisAsDb.deps.json
+RedisAsDb/bin/Debug/net6.0/RedisAsDb.dll
+RedisAsDb/bin/Debug/net6.0/RedisAsDb.exe
+RedisAsDb/bin/Debug/net6.0/RedisAsDb.pdb
+RedisAsDb/bin/Debug/net6.0/RedisAsDb.runtimeconfig.json
+RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+RedisAsDb/obj/
