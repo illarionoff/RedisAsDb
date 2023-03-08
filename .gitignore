@@ -13,3 +13,4 @@ RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 RedisAsDb/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 RedisAsDb/obj/
+RedisAsDb/bin/
